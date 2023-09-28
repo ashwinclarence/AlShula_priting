@@ -57,7 +57,7 @@ ScrollReveal({
 });
 
 ScrollReveal().reveal('.home-content, .heading', { origin: 'top' });
-ScrollReveal().reveal('.home-img img, .product-container, .contact form', { origin: 'bottom' });
+ScrollReveal().reveal('.product-container, .contact form', { origin: 'bottom' });
 ScrollReveal().reveal('.home-content h1, .about-image img', { origin: 'left' });
 ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
