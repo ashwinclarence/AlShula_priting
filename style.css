@@ -643,15 +643,6 @@ span {
     .about-content{
         padding-right: 0rem;
     }
-    .home-content h1{
-        padding-top: 5rem;
-        font-size: 5rem;
-        
-    }
-    .home-content p{
-        padding-top: 5rem;
-        font-size: 5rem;
-    }
     .logo{
         color: var(--text-color);
     }
